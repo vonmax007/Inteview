@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477845581 source:e:\projects\name that number\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+

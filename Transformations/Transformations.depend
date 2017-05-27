@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477620610 source:e:\projects\transformations\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477446191 source:e:\projects\milking cows\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<vector>
+

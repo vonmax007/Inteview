@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479697674 source:f:\f\barn repair\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1481637497 source:e:\projects\barn repair\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+

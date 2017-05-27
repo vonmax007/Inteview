@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477305479 source:e:\projects\ride\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

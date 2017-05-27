@@ -1,0 +1,28 @@
+﻿生成启动时间为 2017/2/24 21:25:43。
+     1>项目“E:\Projects\Median of Two Sorted Arrays\Median of Two Sorted Arrays\Median of Two Sorted Arrays.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Median of Two Sorted Arrays.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Median of Two Sorted Arrays.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Median of Two Sorted Arrays.cpp"
+         Median of Two Sorted Arrays.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Median of Two Sorted Arrays.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Projects\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projects\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.lib" /MACHINE:X86 "Debug\Median of Two Sorted Arrays.exe.embed.manifest.res"
+         "Debug\Median of Two Sorted Arrays.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Median of Two Sorted Arrays.exe.embed.manifest" /manifest "Debug\Median of Two Sorted Arrays.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Median of Two Sorted Arrays.vcxproj -> E:\Projects\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Median of Two Sorted Arrays.unsuccessfulbuild”。
+         正在对“Debug\Median of Two Sorted Arrays.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Projects\Median of Two Sorted Arrays\Median of Two Sorted Arrays\Median of Two Sorted Arrays.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.79

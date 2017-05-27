@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477312730 source:e:\projects\broken necklace\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

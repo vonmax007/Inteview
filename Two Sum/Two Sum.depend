@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481007649 source:e:\projects\two sum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

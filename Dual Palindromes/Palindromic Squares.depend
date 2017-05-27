@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478448802 source:e:\projects\palindromic squares\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1478616830 source:e:\projects\dual palindromes\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
